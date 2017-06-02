@@ -1,0 +1,47 @@
+body {
+		background: url("http://i.imgur.com/N92izNZ.jpg");
+			background-position: ;
+				background-size: cover;
+					background-repeat: none;
+						color:white;
+							font-family: Verdana;
+						}
+
+						.container {
+								
+								margin: 200px auto;
+									max-width: 500px;
+										height: 300px;
+											border-radius: 1%;
+
+										}
+										form {
+												
+												text-align: center;
+											}
+											p {
+													padding-top: 20px;
+														text-align: center;
+															margin-left: 11%;
+														}
+														input[type="text"],input[type="password"] {
+																margin: 10px auto;
+																	padding: 4%;
+																		background-color: transparent;
+																			color:white;
+																		}
+																		label {
+																				margin-right: 1%
+																					
+																			}
+
+																			input[type="submit"] {
+																					margin-top: 20px;
+																						margin-left: 14%;
+																							padding: 3% 7%;
+																								background-color: black;
+																									color: #1ec503;
+																										border: 2px solid #1ec503;
+																											font-family: Verdana;
+
+																										}
